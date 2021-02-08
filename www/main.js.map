@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["../build/main.js"],"sourcesContent":["\"use strict\";\nconsole.log(\"holla from typescript!\");\n"],"names":[],"mappings":"AACA,OAAO,CAAC,GAAG,CAAC,wBAAwB,CAAC"}
